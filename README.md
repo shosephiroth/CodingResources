@@ -2,6 +2,9 @@
 
 ## Follow these links to resources for self-paced, self-study:
 
+### Watch these 2 videos and at least glance over roadmap.sh to get a glimpse of career paths
+note it's ok to feel overwhelmed! You'll forget more code than you can ever learn, it's the problem solving skills that you learn that take you far!
+
 The Best Way to Learn to Code in 2020, Andy Sterkowitz:
 https://youtu.be/YBYmhWlk8o4
 
@@ -11,16 +14,35 @@ https://youtu.be/azcrPFhaY9k
 "roadmap.sh is a community effort to create roadmaps, guides and other educational content to help guide the developers in picking up the path and guide their learnings."
 https://roadmap.sh/
 
-12HR+ YouTube Coding Bootcamp 2021!:
-https://youtu.be/Xm4BObh4MhI
+### Pick one of these 2 (TOP will eventually lead to some work in FCC): 
 
+"The Odin Project is one of those "What I wish I had when I was learning" resources. Not everyone has access to a computer science education or the funds to attend an intensive coding school and neither of those is right for everyone anyway. This project is designed to fill in the gap for people who are trying to hack it on their own but still want a high-quality education."
+https://www.theodinproject.com/home
 
+"freeCodeCamp is a proven path to your first software developer job.
+More than 40,000 people have gotten developer jobs after completing this – including at big companies like Google and Microsoft.
+If you are new to programming, we recommend you start at the beginning and earn these certifications in order."
+https://www.freecodecamp.org/learn/
 
 
 ## Additional Resources:
 
+### Boost your learning with these resources
+
 "Marty Lobdell - Study Less Study Smart", PierceCollegeDist11:
 https://youtu.be/IlU-zDU6aQ0
+
+"We create simplified and interactive learning experiences.", W3Schools:
+https://www.w3schools.com/
+
+CodeAcademy is a great resource for learning syntax and logic for a language.
+https://www.codecademy.com/
+
+Sololearn is a great resource for learning syntax and some logic of a language. The comments section really gives a bonus effect of group learning.
+https://www.sololearn.com/
+
+12HR+ YouTube Coding Bootcamp 2021!:
+https://youtu.be/Xm4BObh4MhI
 
 ## Inspirational / motivational links:
 
