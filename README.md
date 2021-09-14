@@ -62,6 +62,6 @@ https://youtu.be/bjQPxuSUAc4
 https://youtu.be/WAtcwmRYXDc
 
 "For everyone who's wondering what they're getting into with programming", Reddit:
-https://www.reddit.com/r/learnpython/comments/l3xdve/for_everyone_whos_wondering_what_theyre_getting/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
+https://www.reddit.com/r/learnpython/comments/l3xdve/for_everyone_whos_wondering_what_theyre_getting/
 
 
