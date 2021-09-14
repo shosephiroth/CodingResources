@@ -3,7 +3,7 @@
 ## Follow these links to resources for self-paced, self-study:
 
 ### Watch these 2 videos and at least glance over roadmap.sh to get a glimpse of career paths
-note it's ok to feel overwhelmed! You'll forget more code than you can ever learn, it's the problem solving skills that you learn that take you far!
+Note: it's ok to feel overwhelmed! You'll forget more code than you can ever learn, it's the problem solving skills that you learn that take you far!
 
 The Best Way to Learn to Code in 2020, Andy Sterkowitz:
 https://youtu.be/YBYmhWlk8o4
@@ -14,7 +14,7 @@ https://youtu.be/azcrPFhaY9k
 "roadmap.sh is a community effort to create roadmaps, guides and other educational content to help guide the developers in picking up the path and guide their learnings."
 https://roadmap.sh/
 
-### Pick one of these 2 (TOP will eventually lead to some work in FCC): 
+### Pick one of these 2 courses (TOP will eventually lead to some work in FCC): 
 
 "The Odin Project is one of those "What I wish I had when I was learning" resources. Not everyone has access to a computer science education or the funds to attend an intensive coding school and neither of those is right for everyone anyway. This project is designed to fill in the gap for people who are trying to hack it on their own but still want a high-quality education."
 https://www.theodinproject.com/home
@@ -43,6 +43,12 @@ https://www.sololearn.com/
 
 12HR+ YouTube Coding Bootcamp 2021!:
 https://youtu.be/Xm4BObh4MhI
+
+"MIT OpenCourseWare is an online publication of materials from over 2,500 MIT courses, freely sharing knowledge with learners and educators around the world", MIT OpenCourseWare:
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/
+
+"Introduction to Computer Science and Programming Using Python", MITx x EDX:
+https://www.edx.org/course/introduction-to-computer-science-and-programming-7?index=product
 
 ## Inspirational / motivational links:
 
