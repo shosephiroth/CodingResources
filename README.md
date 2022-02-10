@@ -24,6 +24,14 @@ More than 40,000 people have gotten developer jobs after completing this – inc
 If you are new to programming, we recommend you start at the beginning and earn these certifications in order."
 https://www.freecodecamp.org/learn/
 
+## Misc free material:
+
+https://baselinehq.com - free design bootcamp
+
+https://devopsbootcamp.osuosl.org - free DevOps bootcamp
+
+https://github.com/ossu/computer-science#readme - Open Source Society University
+
 
 ## Additional Resources:
 
