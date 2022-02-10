@@ -26,6 +26,10 @@ https://www.freecodecamp.org/learn/
 
 ## Misc free material:
 
+https://www.launchcode.org - LaunchCode Organization (Check this out if you're interested in a free coding bootcamp!)
+
+https://education.launchcode.org/ - LaunchCode LC101 self curriculumn Intro to Web Development and Java Web Development
+
 https://baselinehq.com - free design bootcamp
 
 https://devopsbootcamp.osuosl.org - free DevOps bootcamp
