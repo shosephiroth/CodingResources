@@ -3,7 +3,7 @@
 ## Follow these links to resources for self-paced, self-study:
 
 ### Watch these 2 videos and at least glance over roadmap.sh to get a glimpse of career paths
-Note: it's ok to feel overwhelmed! You'll forget more code than you can ever learn, it's the problem solving skills that you learn that take you far!
+Note: it's ok to feel overwhelmed! You'll forget more code than you can ever learn, it's the problem-solving skills you will learn that will take you far!
 
 The Best Way to Learn to Code in 2020, Andy Sterkowitz:
 https://youtu.be/YBYmhWlk8o4
@@ -28,7 +28,7 @@ https://www.freecodecamp.org/learn/
 
 https://www.launchcode.org - LaunchCode Organization (Check this out if you're interested in a free coding bootcamp!)
 
-https://education.launchcode.org/ - LaunchCode LC101 self curriculumn Intro to Web Development and Java Web Development
+https://education.launchcode.org/ - LaunchCode LC101 self-paced curriculum Intro to Web Development and Java Web Development
 
 https://baselinehq.com - free design bootcamp
 
